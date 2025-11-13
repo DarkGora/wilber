@@ -27,6 +27,7 @@ public class CsvWriter {
         }
     }
 
+
     private String buildCsvLine(Review review) {
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
 

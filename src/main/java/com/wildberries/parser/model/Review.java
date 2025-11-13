@@ -12,6 +12,7 @@ public class Review {
     private boolean hasVideo;
     private List<String> tags;
 
+
     public Review(LocalDateTime publishDate, String author, String text,
                   int rating, int photoCount, boolean hasVideo, List<String> tags) {
         this.publishDate = publishDate;

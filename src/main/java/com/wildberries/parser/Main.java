@@ -11,6 +11,8 @@ public class Main {
     public static void main(String[] args) {
         DriverManager driverManager = null;
 
+
+
         try {
             System.out.println("Запуск парсера отзывов Wildberries...");
 

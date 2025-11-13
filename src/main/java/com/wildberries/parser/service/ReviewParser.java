@@ -395,6 +395,7 @@ public class ReviewParser {
         }
     }
 
+
     private List<String> parseTags(WebElement element) {
         List<String> tags = new ArrayList<>();
         try {

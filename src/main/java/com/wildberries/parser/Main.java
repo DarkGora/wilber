@@ -12,6 +12,7 @@ public class Main {
         DriverManager driverManager = null;
 
 
+
         try {
             System.out.println("Запуск парсера отзывов Wildberries...");
 
